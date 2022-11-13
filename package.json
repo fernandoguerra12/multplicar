@@ -1,0 +1,16 @@
+{
+  "name": "js",
+  "version": "0.0.1",
+  "description": "creando tabla de multiplicar  y te genera un archivo txt con la tabla",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "base6": "node app --base=6"
+  },
+  "author": "EL mejor programadodel mmundo",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.2"
+  }
+}
